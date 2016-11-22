@@ -1,0 +1,20 @@
+Jeu de Wlad Rich
+
+Nombre de joueur: 1
+Nombre de carte: 3
+Nombre de chance: 2
+Gain de départ: 500
+
+
+Montant gagnant : 10000
+Fin de partie montant à: 0
+
+Principe du jeu:
+
+Mélanger 3 cartes face sur la page et vue de dos, dans les 3 cartes il y a2 as et une figure, le but étant de retrouver la figure après mélange virtuel.
+
+Le joueur choisit sa carte puis on retourne une des deux cartes qui n'a pas était choisie. Enfin,on propse au joueur une derrnière chance de pouvoir changer son choix
+
+Si le joueur ne change pas de choix depuis le début et qu'il gangne alors il triple sa mise, s'il fait  un changement de choix et qu'il gagne alors on double sa mise sinon il a perdu.
+
+Pour gagner la partie le joueur doit obtenir 10000 points, sil le joueur a 0 points alors le jeu est fini et le joueur a perdu
